@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["62815679669273@s.whatsapp.net"],
+  "ownerName": ["Qihz"],
+  "botName": "Sleepy-BOT",
+  "buttonName": "Youtube Official",
+  "buttonLink": "https://youtube.com/c/yayasanibnusirintegal",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/faqihwhy113",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
